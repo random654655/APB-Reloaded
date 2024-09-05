@@ -1,0 +1,31 @@
+Added in Options
+
+Analog input (direction only)
+Custom strafing angle
+Hold lean left/right                           Multiple functions=Pressing the same key does a different action/function each time it's pressed
+Hold crouch                                                            
+Fixed hold crouch
+Auto sprint
+Nade toggle throw
+Hold nade jumpthrow
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip primary)
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip secondary)
+Insta nade jumpthrow with nade animation auto cancellation+switch to primary (Multiple functions)
+Insta nade jumpthrow with nade animation auto cancellation+switch to secondary (Multiple functions)
+Insta nade throw with nade animation auto cancellation+switch to primary (Multiple functions)
+Insta nade throw with nade animation auto cancellation+switch to secondary (Multiple functions)
+Select primary then hold nade jumpthrow (press again to cancel animation) (Multiple functions)
+Select secondary then hold nade jumpthrow (press again to cancel animation) (Multiple functions)
+Select primary then hold nade throw (press again to cancel animation) (Multiple functions)
+Select secondary then hold nade throw (press again to cancel animation) (Multiple functions)
+Select primary then toggle nade throw (press again to cancel animation) (Multiple functions)
+Select secondary then toggle nade throw (press again to cancel animation) (Multiple functions)
+Reload weapon+get in car
+Jump+get in the car
+Item juggle bind (it doesn't drop small items)
+Primary only
+Secondary only
+Fast editing in social
+Keyboard weapon switch delay fix (In game)
+Keyboard delay fix (In game)
+Bind delay fix (In game)

@@ -1,0 +1,32 @@
+Added in options
+
+Analog input (direction only)
+Custom strafing angle
+Hold lean left/right
+Hold crouch
+Auto sprint
+Nade toggle throw
+Hold nade jumpthrow
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip primary)
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip secondary)
+Insta nade jumpthrow with nade animation auto cancellation+switch to primary
+Insta nade jumpthrow with nade animation auto cancellation+switch to secondary
+Insta nade throw with nade animation auto cancellation+switch to primary
+Insta nade throw with nade animation auto cancellation+switch to secondary
+Select primary then hold nade jumpthrow (press again to cancel animation)
+Select secondary then hold nade jumpthrow (press again to cancel animation)
+Select primary then hold nade throw (press again to cancel animation)
+Select secondary then hold nade throw (press again to cancel animation)
+Select primary then toggle nade throw (press again to cancel animation)
+Select secondary then toggle nade throw (press again to cancel animation)
+Reload weapon+get in the car
+Jump+get in the car
+Primary only
+Secondary only
+Fast editing in social
+Keyboard weapon switch delay fix
+Keyboard delay fix
+Bind delay fix
+
+If u want to fix the keyboard delay/bind delay u have to match the keybind u are going to use in game with the one in "Axis aUp Speed=-1000.0" section.
+So everytime you change a keybind in game you will have to change it in DefaultInput since it doesn't update itself..If you don't the commmands are still going to work but certain ones will have a delay.
