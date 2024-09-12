@@ -1,0 +1,47 @@
+Added in Options
+
+Analog input (direction only)
+Partial Null movement
+Custom strafing angle
+Hold lean                                 Multiple functions=Pressing the same key does a different action/function each time it's pressed
+Hold Quick lean
+Toggle Quick lean
+Hold crouch                                                            
+Fixed hold crouch
+Double jump
+Double fire
+Double fire on auto (removes small delay/action queue for each initial shot)
+Lower jamrate fire
+Anti Recoil
+Auto sprint
+Hold Walk (Hold Sprint)
+Hold Walk (Autosprint)
+Fixed Toggle Walk
+Nade curve
+Fixed Nade toggle throw
+Hold nade jumpthrow
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip primary)
+Hold nade then press m1 to throw while holding the key (release key to cancel animation and equip secondary)
+Insta nade jumpthrow with nade animation auto cancellation+switch to primary (Multiple functions)
+Insta nade jumpthrow with nade animation auto cancellation+switch to secondary (Multiple functions)
+Insta nade throw with nade animation auto cancellation+switch to primary (Multiple functions)
+Insta nade throw with nade animation auto cancellation+switch to secondary (Multiple functions)
+Select primary then hold nade jumpthrow (press again to cancel animation) (Multiple functions)
+Select secondary then hold nade jumpthrow (press again to cancel animation) (Multiple functions)
+Select primary then hold nade throw (press again to cancel animation) (Multiple functions)
+Select secondary then hold nade throw (press again to cancel animation) (Multiple functions)
+Select primary then toggle nade throw (press again to cancel animation) (Multiple functions)
+Select secondary then toggle nade throw (press again to cancel animation) (Multiple functions)
+Select primary>Toggle (scroll once)/Insta nade throw (scroll twice)->cancel animation to primary/Toggle nade throw with insta cancel animation to primary (button) (Multiple functions)
+Select secondary>Toggle (scroll once)/Insta nade throw (scroll twice)->cancel animation to secondary/Toggle nade throw with insta cancel animation to secondary (button) (Multiple functions)
+Bolt cancellation to Secondary>Toggle (scroll once)/Insta nade throw (scroll twice)->cancel animation to secondary/Toggle nade throw with insta cancel animation to secondary (button) (Multiple functions)
+Faster weapon switching (For high ping)
+Reload weapon+get in car
+Jump+get in the car
+Item juggle bind (it doesn't drop small items)
+Primary only
+Secondary only
+Fast editing in social
+Exit mission
+Keyboard weapon switch delay fix (In game)
+Bind delay fix (In game)
